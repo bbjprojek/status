@@ -27,6 +27,23 @@ status-website:
   name: BBJProjeK Status
   introTitle: "**BBJProjeK** current status"
   introMessage: This status page uses **real-time** data from our [GitHub repository](https://gitlab.com/bbjprojek/status).
+  faviconSvg: https://raw.githubusercontent.com/bbjprojek/status/master/assets/favicon.svg
+  favicon: https://raw.githubusercontent.com/bbjprojek/status/master/assets/favicon-32x32.png
+  metaTags:
+    - name: "description"
+      content: "BBJProjeK Services Status"
+    - name: "author"
+      content: "bbjprojek labs"
+    - name: "theme-color"
+      content: "#008076"
+    - property: "og:title"
+      content: "BBJProjeK Server Status"
+    - property: "og:descrition"
+      content: "Services Status"
+    - property: "og:url"
+      content: "https://status.bbjprojek.org"
+    - property: "og:image"
+      content: "https://raw.githubusercontent.com/bbjprojek/status/master/assets/favicon_full.png"
   navbar:
     - title: Status
       href: /
@@ -36,5 +53,6 @@ status-website:
     - rel: stylesheet
       href: assets/custom.css
 
+  robotsText: "User-agent: * \n Disallow: /"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
