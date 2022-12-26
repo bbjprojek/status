@@ -10,11 +10,13 @@ sites:
   - name: BBJProjeK Email Service
     url: https://mail.bbjprojek.org
   - name: BBJProjeK CDN Server
-    url: https://blog.bbjprojek.org
+    url: https://cdn.bbjprojek.org
   - name: Lapiacery Infrastructure
     url: https://lpry.bbjprojek.org
   - name: BBJProjeK Gitlab
     url: https://gitlab.bbjprojek.org
+  - name: BBJProjeK Sub-Project Example
+    url: https://wiki.bbjprojek.org/andenes
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
