@@ -42,6 +42,8 @@ status-website:
       content: "Services Status"
     - property: "og:url"
       content: "https://status.bbjprojek.org"
+    - property: "og:type"
+      content: "Website"
     - property: "og:image"
       content: "https://raw.githubusercontent.com/bbjprojek/status/master/assets/favicon_full.png"
   navbar:
