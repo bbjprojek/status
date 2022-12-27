@@ -27,6 +27,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/bbjprojek/status/master/assets/status.svg
   name: BBJProjeK Status
+  hideNavTitle: true
   introTitle: "**BBJProjeK** current status"
   introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/bbjprojek/status).
   faviconSvg: https://raw.githubusercontent.com/bbjprojek/status/master/assets/favicon.svg
