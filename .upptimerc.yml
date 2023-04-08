@@ -8,13 +8,13 @@ sites:
   - name: BBJProjeK Blog
     url: https://blog.bbjprojek.org
   - name: BBJProjeK Email Service
-    url: https://bbjprojek.org
+    url: https://mail.bbjprojek.org
   - name: BBJProjeK CDN Server
     url: https://cdn.bbjprojek.org
   - name: Lapiacery Infrastructure
-    url: https://lpry.bbjprojek.org
+    url: https://lapiacery.bbjprojek.org
   - name: BBJProjeK Gitlab
-    url: https://gitlab.bbjprojek.org
+    url: https://git.bbjprojek.org
   - name: BBJProjeK Sub-Project Example
     url: https://wiki.bbjprojek.org/andenes
 
