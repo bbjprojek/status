@@ -6,7 +6,7 @@ sites:
   - name: BBJProjeK Documentation
     url: https://wiki.bbjprojek.org
   - name: BBJProjeK Blog
-    url: https://wiki.bbjprojek.org/blog.html
+    url: https://blog.bbjprojek.org
   - name: BBJProjeK Email Service
     url: https://mail.bbjprojek.org
   - name: BBJProjeK CDN Server
@@ -66,6 +66,6 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "* */4 * * *"
-
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
