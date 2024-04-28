@@ -1,28 +1,26 @@
-# Change these first
-owner: bbjprojek # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: bbjprojek
+repo: status
 
 sites:
+  - name: BBJProjeK
+    url: https://bbjprojek.org
   - name: BBJProjeK Documentation
-    url: https://wiki.bbjprojek.org
-  - name: BBJProjeK Blog
-    url: https://blog.bbjprojek.org
-  - name: BBJProjeK Email Service
+    url: https://wiki. bbjprojek.org
+  - name: BBJProjeK Mail
     url: https://mail.bbjprojek.org
+  - name: BBJProjeK Git
+    url: https://git.bbjprojek.org
   - name: BBJProjeK CDN Server
-    url: https://cdn.bbjprojek.org
+    url: https://get.cdn.bbjprojek.org
   - name: Lapiacery Infrastructure
     url: https://lapiacery.bbjprojek.org
-  - name: BBJProjeK Gitlab
-    url: https://git.bbjprojek.org
-  - name: BBJProjeK Sub-Project Example
+  - name: BBJProjeK Cabinet & R2
+    url: https://cabinet.bbjprojek.org
+  - name: BBJProjeK Sub-Projects
     url: https://wiki.bbjprojek.org/andenes
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.bbjprojek.org
-  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/bbjprojek/status/master/assets/status.svg
   name: BBJProjeK Status
   hideNavTitle: true
@@ -48,10 +46,10 @@ status-website:
     - property: "og:image"
       content: "https://raw.githubusercontent.com/bbjprojek/status/master/assets/favicon_full.png"
   navbar:
+    - title: BBJProjeK
+      href: https://bbbjprojek.org
     - title: Status
       href: /
-    - title: GitLab
-      href: https://gitlab.bbjprojek.org
   links:
     - rel: stylesheet
       href: assets/custom.css
@@ -66,6 +64,3 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "* */4 * * *"
-  
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
