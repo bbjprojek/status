@@ -8,10 +8,10 @@ sites:
     url: https://wiki.bbjprojek.org
   - name: BBJProjeK Mail
     url: https://mail.bbjprojek.org
+  - name: BBJProjeK CDN
+    url: https://cdn.bbjprojek.org
   - name: BBJProjeK Git
     url: https://git.bbjprojek.org
-  - name: BBJProjeK CDN Server
-    url: https://get.cdn.bbjprojek.org
   - name: Lapiacery Infrastructure
     url: https://lapiacery.bbjprojek.org
   - name: BBJProjeK Cabinet & R2
