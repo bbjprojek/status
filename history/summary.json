@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bbjprojek.org.ico",
     "slug": "bbj-proje-k",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 500,
     "timeDay": 542,
     "timeWeek": 565,
     "timeMonth": 526,
     "timeYear": 500,
     "dailyMinutesDown": {
-      "2024-07-02": 0
+      "2024-07-02": 20
     }
   },
   {
@@ -26,17 +26,17 @@
     "slug": "bbj-proje-k-documentation",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.89%",
     "time": 593,
     "timeDay": 668,
     "timeWeek": 598,
     "timeMonth": 617,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2024-07-02": 0,
+      "2024-07-02": 20,
       "2023-08-19": 494,
       "2023-08-18": 50
     }
@@ -46,19 +46,19 @@
     "url": "https://mail.bbjprojek.org",
     "icon": "https://icons.duckduckgo.com/ip3/mail.bbjprojek.org.ico",
     "slug": "bbj-proje-k-mail",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 557,
-    "timeDay": 897,
-    "timeWeek": 638,
-    "timeMonth": 571,
-    "timeYear": 557,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 559,
+    "timeDay": 789,
+    "timeWeek": 644,
+    "timeMonth": 574,
+    "timeYear": 559,
     "dailyMinutesDown": {
-      "2024-07-02": 0
+      "2024-07-02": 20
     }
   },
   {
@@ -67,18 +67,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.bbjprojek.org.ico",
     "slug": "bbj-proje-k-cdn",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 310,
     "timeDay": 396,
     "timeWeek": 358,
     "timeMonth": 314,
     "timeYear": 310,
     "dailyMinutesDown": {
-      "2024-07-02": 0
+      "2024-07-02": 20
     }
   },
   {
@@ -87,18 +87,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.bbjprojek.org.ico",
     "slug": "bbj-proje-k-git",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 476,
     "timeDay": 497,
     "timeWeek": 568,
     "timeMonth": 480,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2024-07-02": 0
+      "2024-07-02": 20
     }
   },
   {
@@ -107,10 +107,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/lapiacery.bbjprojek.org.ico",
     "slug": "lapiacery-infrastructure",
     "status": "down",
-    "uptime": "98.98%",
-    "uptimeDay": "98.23%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.87%",
+    "uptime": "98.97%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "98.59%",
     "time": 291,
     "timeDay": 264,
@@ -118,7 +118,7 @@
     "timeMonth": 275,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2024-07-02": 25,
+      "2024-07-02": 46,
       "2024-06-30": 33,
       "2024-04-29": 256,
       "2023-08-19": 494,
@@ -137,18 +137,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cabinet.bbjprojek.org.ico",
     "slug": "bbj-proje-k-cabinet-and-r2",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.23%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.95%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.95%",
     "time": 529,
     "timeDay": 622,
     "timeWeek": 571,
     "timeMonth": 535,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2024-07-02": 25
+      "2024-07-02": 46
     }
   },
   {
@@ -157,18 +157,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.bbjprojek.org.ico",
     "slug": "bbj-proje-k-sub-projects",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 229,
     "timeDay": 352,
     "timeWeek": 265,
     "timeMonth": 257,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2024-07-02": 0
+      "2024-07-02": 20
     }
   }
 ]
