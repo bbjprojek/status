@@ -97,18 +97,19 @@
     "url": "https://lapiacery.bbjprojek.org",
     "icon": "https://icons.duckduckgo.com/ip3/lapiacery.bbjprojek.org.ico",
     "slug": "lapiacery-infrastructure",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.59%",
-    "time": 290,
+    "time": 291,
     "timeDay": 264,
     "timeWeek": 281,
     "timeMonth": 275,
     "timeYear": 296,
     "dailyMinutesDown": {
+      "2024-07-02": 0,
       "2024-06-30": 33,
       "2024-04-29": 256,
       "2023-08-19": 494,
@@ -126,9 +127,9 @@
     "url": "https://cabinet.bbjprojek.org",
     "icon": "https://icons.duckduckgo.com/ip3/cabinet.bbjprojek.org.ico",
     "slug": "bbj-proje-k-cabinet-and-r2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -137,7 +138,9 @@
     "timeWeek": 571,
     "timeMonth": 535,
     "timeYear": 529,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-02": 0
+    }
   },
   {
     "name": "BBJProjeK Sub-Projects",
